@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/JillyHup">
+    <img alt="Faishal's Banner" src="C-Shal.png" width="300" />
+  </a>
+</p>
 
-<!--
-**FaishallHD/FaishallHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ahmad Faishal Majdii**, 15 years old and a self-taught **Fullstack Web Developer** & **Software Engineer**  
+Informatics student with a strong interest in technology, especially **web development and digital design**.  
+I love building web & desktop applications, especially those related to networking like multiplayer games.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Reach me
+
+- 📷 [Instagram - @zhaalys](https://www.instagram.com/zhaalys)
+- 📧 [winterc0ldsye@gmail.com](mailto:winterc0ldsye@gmail.com)
